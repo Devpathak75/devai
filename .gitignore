@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Compiled Java files
+*.class
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+config.properties
